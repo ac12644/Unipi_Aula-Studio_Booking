@@ -2,9 +2,9 @@
  - Download and install Python3 from this (link)[https://www.python.org/downloads/]
  
 ## STEP- 2
-  - Open Terminal or Command Prompt and run this command   *pip install selenium*
-  - If above command doesn't work use this *python -m pip install selenium*
+  - Open Terminal or Command Prompt and run this command  &nbsp;&nbsp; *pip install selenium*
+  - If above command doesn't work use this &nbsp;&nbsp; *python -m pip install selenium*
   
 ## STEP- 3
-   - ON Mac terminal install chromedriver *brew cask install chromedriver* if this not work then you have install homebrew using this command */bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"*
+   - ON Mac terminal install chromedriver &nbsp;&nbsp;*brew cask install chromedriver* if this not work then you have install homebrew using this command &nbsp;&nbsp;*/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"*
   
