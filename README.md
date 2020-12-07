@@ -10,7 +10,7 @@
   
 ## STEP- 3
    - For Mac open terminal install chromedriver &nbsp;&nbsp;*brew cask install chromedriver*&nbsp;&nbsp; if this not work then you have to install homebrew using this command &nbsp;&nbsp; */bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"*
-   - For Windows go to this (link)[https://chromedriver.chromium.org/downloads] and download chromedriver
+   - For Windows download Chromedriver from given [link](https://chromedriver.chromium.org/downloads).
    
    
 ## Step- 4
