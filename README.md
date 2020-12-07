@@ -13,7 +13,9 @@
    
    
 ## Step- 4
-  - Now run this command in terminal &nbsp;&nbsp;*python3 FILE_NAME.py*
+   - Edit and save both python files by writing your username and password on line 21 and 22.
+ 
   
 ## Step- 5
-  - Edit and save both python files by writing your username and password on line 21 and 22.
+ - Now run this command in terminal &nbsp;&nbsp;*python3 FILE_NAME.py*
+  
