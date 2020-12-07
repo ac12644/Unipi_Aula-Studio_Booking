@@ -2,7 +2,7 @@
 ## Enter your alice credentials and save the file
 
 ## STEP- 1
- - Download and install Python3 from this (link)https://www.python.org/downloads/]
+ - Download and install Python3 from this [link](https://www.python.org/downloads/)
  
 ## STEP- 2
   - Open Terminal or Command Prompt and run this command  &nbsp;&nbsp; *pip install selenium*
