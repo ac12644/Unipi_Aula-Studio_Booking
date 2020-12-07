@@ -1,5 +1,4 @@
 
-## Enter your alice credentials and save the file
 
 ## STEP- 1
  - Download and install Python3 from this [link](https://www.python.org/downloads/)
@@ -15,3 +14,6 @@
    
 ## Step- 4
   - Now run this command in terminal &nbsp;&nbsp;*python3 FILE_NAME.py*
+  
+## Step- 5
+  - Edit and save both python files by writing your username and password on line 21 and 22.
