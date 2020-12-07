@@ -10,7 +10,7 @@ from selenium.webdriver.common.alert import Alert
 
 
 driver = webdriver.Chrome()
-driver.get('https://agende.unipi.it/lfm-snn-wpj')   # AULA STUDIO PACINOTTI
+driver.get('https://agende.unipi.it/bno-irb-rbh')
  
 inputElems = driver.find_elements_by_id('i0116')
  
@@ -18,8 +18,8 @@ for inputElem in inputElems:
      inputElem.send_keys('aa@unipi.it')
      inputElem.send_keys(Keys.ENTER)
  
-usernameStr = 'YOUR_USERNAME'   #c ALICE CREDENTIALS
-passwordStr = 'PASSWORD'
+usernameStr = 'YOUR_USERNAME' # ALICE CREDENTIALS
+passwordStr = 'YOUR_PASSWORD'
  
 username = WebDriverWait(driver, 30).until(
      EC.presence_of_element_located((By.ID, 'username')))
@@ -40,6 +40,7 @@ monthButton = WebDriverWait(driver, 20).until(
 
 monthButton.click()
     #  sunday 6, monday 0 , tue 1, wed 2, thur 3, fri 4, sat 5
+
 if date.today().weekday() == 1:
     
      bookButton = WebDriverWait(driver, 10).until(
@@ -98,6 +99,6 @@ if date.today().weekday() == 6:
     bookButton2.click()
 
 else:
-    print("DAYS DO N0T MATCH OR SOMETHING WRONG")
+    print("NO BOOKING AVAILABLE ON THIS DAY")
 
     
