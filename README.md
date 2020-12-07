@@ -14,4 +14,4 @@
    
    
 ## Step- 4
-  - Now run this command in terminal &nbsp;&nbsp;*python3 book.py*
+  - Now run this command in terminal &nbsp;&nbsp;*python3 FILE_NAME.py*
